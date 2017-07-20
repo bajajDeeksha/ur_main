@@ -91,22 +91,43 @@
 						<section id="portfolio-post">
 							<div class="container inner-top-xs inner-bottom">
 								<div class="row inner-top-xs reset-xs">
-									<div class="col-xs-4">
+									<div class="col-sm-4 hidden-xs">
+										<a href="line.php">
+											<div class="area-train">
+												<i class="fa fa-train fa-3x" aria-hidden="true"></i>
+												<h3> Search along Train lines</h3>
+											</div>
+										</a>
+									</div>
+									<div class="col-xs-12 visible-xs">
 										<div class="area-train">
-											<i class="fa fa-train fa-3x" aria-hidden="true"></i>
-											<h3> Search along Train lines</h3>
+											<h3> <i class="fa fa-train" aria-hidden="true"></i> Search along Train lines</h3>
 										</div>
 									</div>
-									<div class="col-xs-4">
+									<div class="col-sm-4 hidden-xs">
+										<a href="wards.php">
+											<div class="area-train">
+												<i class="fa fa-map-marker fa-3x" aria-hidden="true"></i>
+												<h3> Search along Wards </h3>												
+											</div>
+										</a>
+									</div>
+									<div class="col-xs-12 visible-xs">
 										<div class="area-train">
-											<i class="fa fa-map-marker fa-3x" aria-hidden="true"></i>
-											<h3> Search along Wards </h3>												
+											<h3> <i class="fa fa-map-marker" aria-hidden="true"></i> Search along Wards </h3>
 										</div>
 									</div>
-									<div class="col-xs-4">
+									<div class="col-sm-4 hidden-xs">
+										<a href="radius.php">
+											<div class="area-train">
+												<i class="fa fa-map fa-3x" aria-hidden="true"></i>
+												<h3> Search via Radius from Location </h3>												
+											</div>
+										</a>
+									</div>
+									<div class="col-xs-12 visible-xs">
 										<div class="area-train">
-											<i class="fa fa-map fa-3x" aria-hidden="true"></i>
-											<h3> Search via Radius from Location </h3>												
+											<h3> <i class="fa fa-map" aria-hidden="true"></i> Search via Radius from Location </h3>
 										</div>
 									</div>
 								</div>

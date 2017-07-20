@@ -6214,6 +6214,13 @@ ul.circled li:before,
     padding: 10px;
 }
 
+#lines label {
+	overflow: hidden;
+    text-overflow: ellipsis;
+	white-space: nowrap;
+	margin-bottom: 15px;
+}
+
 .train-line {
 	margin-bottom: 50px;
 }
@@ -6266,4 +6273,24 @@ ul.circled li:before,
 	border: 1px solid #506A85;
 	padding: 30px;
 	text-align: center;
+}
+
+.area-train h3 {
+	margin-bottom: 0 !important;
+}
+
+@media (max-width: 768px) {
+	.area-train {
+		padding: 10px;
+		text-align: left;
+	}
+}
+
+#radius {
+	border: 2px solid #506A85;
+	padding: 30px;
+	text-align: center;
+}
+#radius input {
+	margin: 0 10px;
 }

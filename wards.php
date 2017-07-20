@@ -49,7 +49,6 @@
             <section id="lines">
                 <div class="container inner">
                         <form class="row">
-                            <h2> A </h2>
                             <label class="col-md-3 col-sm-6 col-xs-12">
                                 <input type="checkbox" value=""> JR yamanote
                             </label>
@@ -184,111 +183,6 @@
                             </label>
                             <label class="col-md-3 col-sm-6 col-xs-12">
                                 <input type="checkbox" value=""> JR Saitama 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> JR yamanote line
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> Jr Kehin Tohoku 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> JR Chofu 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> JR Chiba 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> JR Saitama 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> JR yamanote line
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> Jr Kehin Tohoku 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> JR Chofu 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> Tokyo Metro Hanzomo Line
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> Tokyo Metro Hibiya Line
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> Tokyo Metro Denentoshi Line
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> Tokyo Metro Yurakucho Line 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> Tokyo Metro Ginza Line 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> Tokyo Metro hello Line
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> Tokyo Metro bye Line 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> JR yamanote
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> Jr Kehin Tohoku 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> JR Chofu 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> JR Chiba 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> JR Saitama 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> JR yamanote line
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> Jr Kehin Tohoku 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> JR Chofu 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> JR Chiba 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> JR Saitama 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> JR yamanote line
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> Jr Kehin Tohoku 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> JR Chofu 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> Tokyo Metro Hanzomo Line
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> Tokyo Metro Hibiya Line
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> Tokyo Metro Denentoshi Line
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> Tokyo Metro Yurakucho Line 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> Tokyo Metro Ginza Line 
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> Tokyo Metro hello Line
-                            </label>
-                            <label class="col-md-3 col-sm-6 col-xs-12">
-                                <input type="checkbox" value=""> Tokyo Metro bye Line 
                             </label>
                         </form>
                     </div>
