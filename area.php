@@ -53,26 +53,26 @@
                     <div class="train-line">
                         <div class="row">
                             <h2> Kanto Area </h2>
-                            <a href="#modal-work03" data-toggle="modal" name="tokyo" id="1" class="btn btn-large">Tokyo</a>
-                            <a href="#modal-work03" data-toggle="modal" name="kanagawa" id="2" class="btn btn-large">Kanagawa</a>
-                            <a href="#modal-work03" data-toggle="modal" name="chiba" id="3" class="btn btn-large">Chiba</a>
-                            <a href="#modal-work03" data-toggle="modal" name="saitama" id="4" class="btn btn-large">Saitama</a>
-                            <a href="#modal-work03" data-toggle="modal" name="ibaraki" id="5" class="btn btn-large">Ibaraki</a>
+                            <a href="#tokyo" data-target="#modal-work03" data-toggle="modal" name="tokyo" id="1" class="btn btn-large">Tokyo</a>
+                            <a href="#kanagawa" data-target="#modal-work03" data-toggle="modal" name="kanagawa" id="2" class="btn btn-large">Kanagawa</a>
+                            <a href="#chiba" data-target="#modal-work03" data-toggle="modal" name="chiba" id="3" class="btn btn-large">Chiba</a>
+                            <a href="#saitama" data-target="#modal-work03" data-toggle="modal" name="saitama" id="4" class="btn btn-large">Saitama</a>
+                            <a href="#ibaraki" data-target="#modal-work03" data-toggle="modal" name="ibaraki" id="5" class="btn btn-large">Ibaraki</a>
                             <h2> Kansai Area </h2>
-                            <a href="#modal-work03" data-toggle="modal" name="osaka" id="6" class="btn btn-large">Osaka</a>
-                            <a href="#modal-work03" data-toggle="modal" name="shiga" id="7" class="btn btn-large">Shiga</a>
-                            <a href="#modal-work03" data-toggle="modal" name="nara" id="8" class="btn btn-large">Nara</a>
-                            <a href="#modal-work03" data-toggle="modal" name="kyoto" id="9" class="btn btn-large">Kyoto</a>
-                            <a href="#modal-work03" data-toggle="modal" name="hyogo" id="10" class="btn btn-large">Hyogo</a>
+                            <a href="#osaka" data-target="#modal-work03" data-toggle="modal" name="osaka" id="6" class="btn btn-large">Osaka</a>
+                            <a href="#shiga" data-target="#modal-work03" data-toggle="modal" name="shiga" id="7" class="btn btn-large">Shiga</a>
+                            <a href="#nara" data-target="#modal-work03" data-toggle="modal" name="nara" id="8" class="btn btn-large">Nara</a>
+                            <a href="#" data-target="#modal-work03" data-toggle="modal" name="kyoto" id="9" class="btn btn-large">Kyoto</a>
+                            <a href="#" data-target="#modal-work03" data-toggle="modal" name="hyogo" id="10" class="btn btn-large">Hyogo</a>
                             <h2> Chubu Area </h2>
-                            <a href="#modal-work03" data-toggle="modal" name="shizouka" id="11" class="btn btn-large">Shizouka</a>
-                            <a href="#modal-work03" data-toggle="modal" name="aichi" id="12" class="btn btn-large">Aichi</a>
-                            <a href="#modal-work03" data-toggle="modal" name="gifu" id="13" class="btn btn-large">Gifu</a>
-                            <a href="#modal-work03" data-toggle="modal" name="mie" id="14" class="btn btn-large">Mie</a>
+                            <a href="#shizouka" data-target="#modal-work03" data-toggle="modal" name="shizouka" id="11" class="btn btn-large">Shizouka</a>
+                            <a href="#aichi" data-target="#modal-work03" data-toggle="modal" name="aichi" id="12" class="btn btn-large">Aichi</a>
+                            <a href="#gifu" data-target="#modal-work03" data-toggle="modal" name="gifu" id="13" class="btn btn-large">Gifu</a>
+                            <a href="#mie" data-target="#modal-work03" data-toggle="modal" name="mie" id="14" class="btn btn-large">Mie</a>
                             <h2> Hiroshima Area </h2>
-                            <a href="#modal-work03" data-toggle="modal" name="hiroshima" id="15" class="btn btn-large">Hiroshima</a>
+                            <a href="#hiroshima" data-target="#modal-work03" data-toggle="modal" name="hiroshima" id="15" class="btn btn-large">Hiroshima</a>
                             <h2> Fukuoka Area </h2>
-                            <a href="#modal-work03" data-toggle="modal" name="fukuoka" id="16" class="btn btn-large">Fukuoka</a>                            
+                            <a href="#fukuoka" data-target="#modal-work03" data-toggle="modal" name="fukuoka" id="16" class="btn btn-large">Fukuoka</a>                            
                         </div>
                     </div>
                 </div>
